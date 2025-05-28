@@ -1,6 +1,6 @@
 # Download Link Creator from fixDAT
 
-A simple desktop application built with Python and CustomTkinter to generate a list of download URLs based on entries in a RomVault-style fixDat file.
+A simple desktop application built with Python and CustomTkinter to generate a list of download URLs (for external tools like rclone or jDownloader) based on entries in a RomVault-style fixDat file.
 
 ## Description
 
