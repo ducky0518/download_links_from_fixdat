@@ -23,6 +23,8 @@ This tool allows users to:
 * **User-Friendly Interface:** Built with CustomTkinter for a modern look and feel.
 * **Status Feedback:** An in-app status bar provides information about operations (file loading, parsing, saving, copying, errors).
 
+![download_links_from_fixdat.png](download_links_from_fixdat.png)
+
 ## Requirements
 
 * Python 3.x
