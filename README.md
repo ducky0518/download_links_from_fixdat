@@ -8,7 +8,7 @@ This tool allows users to:
 1.  Load a fixDat file (typically XML-based, like those used by RomVault).
 2.  Specify a base URL where you will be downloading your files from - you will need to know this in advance.
 3.  Specify a file extension for the target files. (.zip or .7z are most likely) if accessing DATed files
-4.  Choose whether to use the "Rom Name" or "Game Name" from the DAT file to construct the download links. (Game name is probably more common when you are downloading the entire archive and not indivudual files within the .zip or .7z.
+4.  Choose whether to use the "Rom Name" or "Game Name" from the DAT file to construct the download links. (Game name is probably more common when you are downloading the entire archive and not indivudual files within the .zip or .7z)
 5.  Generate a list of fully formed URLs.
 6.  Save this list to a text file or copy it directly to the clipboard, making it easy to use with external download managers.
 
