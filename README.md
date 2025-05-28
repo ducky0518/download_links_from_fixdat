@@ -15,6 +15,11 @@ A simple desktop application built with Python and CustomTkinter to generate a l
 
 ![download_links_from_fixdat.png](download_links_from_fixdat.png)
 
+1. Prebuild Windows Binary
+   * No requirements
+   * Download newest binary under releases
+
+2. Run from source
 ## Requirements
 
 * Python 3.x
