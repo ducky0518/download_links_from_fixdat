@@ -17,7 +17,7 @@ A simple desktop application built with Python and CustomTkinter to generate a l
 
 ## How to Run
 
-1. Prebuild Windows Binary
+1. Prebuilt Windows Binary
    * No requirements
    * Download newest binary under releases
 
