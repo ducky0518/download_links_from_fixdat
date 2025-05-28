@@ -15,33 +15,26 @@ A simple desktop application built with Python and CustomTkinter to generate a l
 
 ![download_links_from_fixdat.png](download_links_from_fixdat.png)
 
+## How to Run
+
 1. Prebuild Windows Binary
    * No requirements
    * Download newest binary under releases
 
-2. Run from source
-## Requirements
 
-* Python 3.x
-* CustomTkinter library
-* Tkinter (usually included with standard Python installations)
-
-## Installation
+## Installation (from source)
 
 1.  **Ensure Python 3 is installed.** You can download it from [python.org](https://www.python.org/).
 2.  **Install the CustomTkinter library.** Open your terminal or command prompt and run:
     ```bash
     pip install customtkinter
-    ```
-
-## How to Run
-
-1.  Save the application code as a Python file (e.g., `download_link_creator.py`).
-2.  Open your terminal or command prompt.
-3.  Navigate to the directory where you saved the file.
-4.  Run the script using:
+    ````
+3.  Save the application code as a Python file (e.g., `download_links_from_fixdat.py`).
+4.  Open your terminal or command prompt.
+5.  Navigate to the directory where you saved the file.
+6.  Run the script using:
     ```bash
-    python download_link_creator.py
+    python download_links_from_fixdat.py
     ```
 
 ## How to Use
