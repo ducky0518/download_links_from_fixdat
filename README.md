@@ -22,7 +22,6 @@ This tool allows users to:
 * **Copy to Clipboard:** Directly copy the entire URL list to the system clipboard.
 * **User-Friendly Interface:** Built with CustomTkinter for a modern look and feel.
 * **Status Feedback:** An in-app status bar provides information about operations (file loading, parsing, saving, copying, errors).
-* **Placeholder Hints:** Input fields for URL and extension show example hints.
 
 ## Requirements
 
